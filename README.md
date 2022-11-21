@@ -4,7 +4,7 @@
 You can contact me at MasonMcClinticC@gmail.com
 
 - Core projects
-- Other projects
+- Other projects  
 first python project (rng bot)  
 https://github.com/MasonJarCat/RNG-bot/
 
